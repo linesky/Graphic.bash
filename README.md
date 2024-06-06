@@ -1,6 +1,4 @@
-# Graphic.bash
-Browser bash graphic converter into svg graphic format in every device
-valid commands oval color rect line
+# distro.puppy.c
 
-open an save interfaces
+distro c sample
 
